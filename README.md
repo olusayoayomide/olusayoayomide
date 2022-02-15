@@ -4,7 +4,7 @@
 - 🌱 I also participated in Accenture virtual program
 - 💞️ I’m looking to collaborate on everything that has to do with Data Analysis
 - 📫 How to reach me, My linkedin Profile is https://www.linkedin.com/in/olusayo-atanda-2567569a/
--     Some of my analysis can be viewed on my linkedin profile while others will be uploaded here
+- 📫 Some of my analysis can be viewed on my linkedin profile while others will be uploaded here
 
 <!---
 olusayoayomide/olusayoayomide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
